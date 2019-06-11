@@ -25,8 +25,8 @@ $ ./gradlew clean build
   e.g. http://localhost:8080/carlist/api/v1/cars/search/colors/red
 # POST http://server:port/carlist/api/v1/cars/files/csvs/{dealerId}
   e.g. http://localhost:8080/carlist/api/v1/cars/files/listings/32
-# PUT  http://localhost:8080/upload_csv/8c3f8012-a3a0-44e8-9466-16531687b85d
-  e.g. http://localhost:8080/events
+# PUT  http://server:port/carlist/api/v1/cars/files/listings/{id}
+  e.g. http://localhost:8080/carlist/api/v1/cars/files/listings/8c3f8012-a3a0-44e8-9466-16531687b85d
 
 ```
 ## TODOS/IMPROVEMENTS:
