@@ -32,6 +32,7 @@ $ ./gradlew clean build
 ## TODOS/IMPROVEMENTS:
 ```
 # exception handler test
+# types of the fields will be changed
 # more test implementation/scenarios could be written
 # exceptions and exception handler will be written
 ```
